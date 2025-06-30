@@ -13,19 +13,6 @@ This project uses Google's **Gemini (Generative AI)** model to analyze plant lea
 
 ---
 
-## 🧱 Project Structure
-
-genai_leaf_diagnosis/
-├── src/
-│ ├── config.py # Loads API key from .env
-│ ├── image_processor.py # Loads and validates image
-│ ├── prompts.py # Stores LLM prompt logic
-│ └── main.py # Main app logic
-├── data/ # Image input files
-├── .env # 🔐 API key (not committed)
-├── .gitignore
-├── requirements.txt
-└── README.md
 ## 🧑‍💻 Getting Started
 
 ### 1️⃣ Clone the repo
