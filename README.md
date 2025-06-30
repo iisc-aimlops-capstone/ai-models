@@ -26,7 +26,6 @@ genai_leaf_diagnosis/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
 ## 🧑‍💻 Getting Started
 
 ### 1️⃣ Clone the repo
